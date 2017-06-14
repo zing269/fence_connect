@@ -1,1 +1,1 @@
-Adds a connect_to_fence group to various nodes and adds that group to the fence connect_to group list.
+Causes fences terminate against many solid nodes.
