@@ -7,7 +7,7 @@ By default, minetest game only lets fences terminate against wood or other fence
 
 Edit the fence_connect.conf file to include nodes that you want fences to connect to.
 
-Version: 0.9
+Version: 0.9.1
 License: LGPL 2.1 or later
 Dependencies: default mod (found in minetest_game)
 Optional: colorwoods
